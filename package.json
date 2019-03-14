@@ -1,0 +1,19 @@
+{
+  "name": "basic-data-structures",
+  "version": "1.0.0",
+  "description": "Example of basic data structures on javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mactiencong/basic-data-structures.git"
+  },
+  "author": "matico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mactiencong/basic-data-structures/issues"
+  },
+  "homepage": "https://github.com/mactiencong/basic-data-structures#readme"
+}
