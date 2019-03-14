@@ -1,0 +1,1 @@
+module.exports.LinkedList = require('./LinkedList/index')
