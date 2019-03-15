@@ -4,7 +4,7 @@
   "description": "Example of basic data structures on javascript",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/jest/bin/jest.js"
+    "test": "node_modules/.bin/jest"
   },
   "repository": {
     "type": "git",
