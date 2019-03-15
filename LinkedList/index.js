@@ -14,7 +14,6 @@ function llGetPreviousNode(node){
         checkNode = checkNode.nextNode
         isEndOfList = checkNode === null
     }
-    console.log('checkNode', checkNode)
     return checkNode
 }
 

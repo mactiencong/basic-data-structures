@@ -1,6 +1,6 @@
 {
   "name": "basic-data-structures",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Example of basic data structures on javascript",
   "main": "index.js",
   "scripts": {
