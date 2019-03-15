@@ -19,7 +19,7 @@ function llGetPreviousNode(node){
 
 // head = LLNode { value=null, isHead = true }
 // last = LLNode { nextNode=null }
-module.exports.LinkedList = class LinkedList {
+module.exports = class LinkedList {
     constructor(){
         this.head = new LLNode(null)
         this.head.isHead = true
