@@ -5,7 +5,7 @@ class STNode {
     }
 }
 
-module.exports.Stack = class Stack {
+module.exports = class Stack {
     constructor(){
         this.root = null
     }
