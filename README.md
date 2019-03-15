@@ -1,1 +1,3 @@
+[![Build Status](https://travis-ci.org/mactiencong/basic-data-structures.svg?branch=master)](https://travis-ci.org/mactiencong/basic-data-structures)
+
 Basic data structures: Linked List, Queue, Stack, Tree, ...
